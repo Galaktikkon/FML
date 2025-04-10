@@ -124,3 +124,7 @@ cython_debug/
 
 # html
 *.html
+
+# images
+images/
+*.tar
