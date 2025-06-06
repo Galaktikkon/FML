@@ -8,6 +8,7 @@
 * [Metody probabilistyczne (probabilistic methods)](lab4)
 * [Klasyfikacja niezbalansowana (imbalanced classification)](lab5)
 * [Selekcja cech i redukcja wymiarowości (feature selection & dimensionality reduction)](lab6)
+* [Klasteryzacja (clustering)](lab7)
 
 ## Setup
 
