@@ -28,6 +28,7 @@ dependencies = [
     "xgboost",
     "umap-learn",
     "pre-commit>=4.1.0",
+    "umap>=0.1.1",
 ]
 
 [dependency-groups]
