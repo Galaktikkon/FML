@@ -132,3 +132,5 @@ images/
 # data
 Liver_GSE14520_U133A.csv
 data/
+cache
+cachedir
